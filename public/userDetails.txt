@@ -1,0 +1,14 @@
+[
+  {
+    "userId": 1,
+    "username": "VGFydW4gR2FobG90",
+    "email": "dGFydW5AZ21haWwuY29t",
+    "password": "MTIz"
+  },
+  {
+    "userId": 2,
+    "username": "VGFydW4x",
+    "email": "dGFydW4xQGdtYWlsLmNvbQ==",
+    "password": "MTIzNA=="
+  }
+]
